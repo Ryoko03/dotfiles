@@ -153,6 +153,9 @@ alias g='gulp'
 alias gw='gulp watch'
 alias gs='gulp server'
 
+# github へ移動
+alias idd='cd ~/github/idd-gp'
+
 # ミスタイプ補正
 alias cleawr='clear'
 
