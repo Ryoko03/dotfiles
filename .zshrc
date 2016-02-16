@@ -155,6 +155,14 @@ alias gs='gulp server'
 
 # github へ移動
 alias idd='cd ~/github/idd-gp'
+alias dogs='cd ~/github/dog-server'
+alias dogi='cd ~/github/dog-ios'
+
+# Rails
+alias rs='bundle exec rails server -b 0.0.0.0'
+
+# MySQL
+alias ms='mysql.server start'
 
 # ミスタイプ補正
 alias cleawr='clear'
